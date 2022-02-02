@@ -69,7 +69,6 @@ setup(
     include_package_data=True,
     install_requires=REQUIREMENTS,
     dependency_links=DEPENDENCIES,
-    python_requires='>=3.4, <=3.10',
     license='BSD',
     zip_safe=True,
     platforms=['any'],
